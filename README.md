@@ -25,6 +25,6 @@ IZZHAM ZULQARNAIM BIN KAMARUZAMAN (S79478)
 MUHAMMAD AZEEM SYAHMI BIN MUHAMED FAIZA (S79606) 
 - (Order Processing & Payment): Functional Requirements 4  
 - (Order Tracking): Functional Requirements 5
-- Description, Flowcharts & Pseudocode for Order Processing & Payment a
+- Description, Flowcharts & Pseudocode for Order Processing & Payment 
 - Description, Flowcharts & Pseudocode for Order Tracking
 - Create folder /pseudocode at GitHub and compile it in the folder /pseudocode
